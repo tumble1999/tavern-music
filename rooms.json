@@ -131,7 +131,8 @@
     "foreground": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/foreground.png",
     "navMesh": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/navmesh.png",
     "map": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/map.png",
-    "layout": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/layout.json"
+	"layout": "/media/rooms/tavern/7b99ca66a0eecd0e3ac14f9055c91f5e/layout.json",
+	"music":"https://cdn.jsdelivr.net/gh/tumble1999/tavern-music/Eternal_Structures.mp3"
   },
   {
     "roomId": "port",
